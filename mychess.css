@@ -1,0 +1,262 @@
+#big {
+    width: 851px;
+    height: 842px;
+    /* border: 1px solid red; */
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+#topah,
+#bottomah {
+    width: 851px;
+    height: 20px;
+    background-color: rgb(88, 54, 26);
+    color: white;
+}
+
+#bottomah {
+    position: absolute;
+    top: 820px;
+}
+
+#square1,
+#square2,
+#square3,
+#square4 {
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+}
+
+#square1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#square2 {
+    position: absolute;
+    left: 829px;
+    top: 0;
+}
+
+#square3 {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#square4 {
+    position: absolute;
+    left: 829px;
+    top: 0;
+}
+
+#a,
+#b,
+#c,
+#d,
+#e,
+#f,
+#g,
+#h {
+    width: 100px;
+    height: 20px;
+    border: 1px solid white;
+    text-align: center;
+    position: absolute;
+    top: 0;
+}
+
+#a {
+    position: absolute;
+    left: 21px;
+}
+
+#b {
+    position: absolute;
+    left: 122px;
+}
+
+#c {
+    position: absolute;
+    left: 223px;
+}
+
+#d {
+    position: absolute;
+    left: 324px;
+}
+
+#e {
+    position: absolute;
+    left: 425px;
+}
+
+#f {
+    position: absolute;
+    left: 526px;
+}
+
+#g {
+    position: absolute;
+    left: 627px;
+}
+
+#h {
+    position: absolute;
+    left: 728px;
+}
+
+.num {
+    width: 20px;
+    height: 100px;
+    border: 1px solid white;
+    background-color: rgb(88, 54, 26);
+    color: white;
+    position: absolute;
+    top: 0;
+}
+
+.numleft {
+    position: absolute;
+    left: 0;
+}
+
+.numright {
+    position: absolute;
+    right: 0;
+}
+
+.pos {
+    position: absolute;
+    left: 6px;
+    top: 41px;
+}
+
+.number8,
+.number7,
+.number6,
+.number5,
+.number4,
+.number3,
+.number2,
+.number1 {
+    width: 851px;
+    height: 100px;
+    /* border: 1px solid orange; */
+}
+
+.number8 {
+    position: absolute;
+    left: 0;
+    top: 20px;
+    /* dzel */
+}
+
+.number7 {
+    position: absolute;
+    left: 0;
+    top: 120px;
+}
+
+.number6 {
+    position: absolute;
+    left: 0;
+    top: 220px;
+}
+
+.number5 {
+    position: absolute;
+    left: 0;
+    top: 320px;
+}
+
+.number4 {
+    position: absolute;
+    left: 0;
+    top: 420px;
+}
+
+.number3 {
+    position: absolute;
+    left: 0;
+    top: 520px;
+}
+
+.number2 {
+    position: absolute;
+    left: 0;
+    top: 620px;
+}
+
+.number1 {
+    position: absolute;
+    left: 0;
+    top: 720px;
+}
+
+.bac {
+    background-color: wheat;
+}
+
+.mug {
+    background-color: rgb(163, 135, 122);
+}
+
+.size {
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+    font-size: 70px;
+    text-align: center;
+}
+
+.box1 {
+    position: absolute;
+    top: 0;
+    left: 21px;
+}
+
+.box2 {
+    position: absolute;
+    top: 0;
+    left: 122px;
+}
+
+.box3 {
+    position: absolute;
+    top: 0;
+    left: 223px;
+}
+
+.box4 {
+    position: absolute;
+    top: 0;
+    left: 324px;
+}
+
+.box5 {
+    position: absolute;
+    top: 0;
+    left: 425px;
+}
+
+.box6 {
+    position: absolute;
+    top: 0;
+    left: 526px;
+}
+
+.box7 {
+    position: absolute;
+    top: 0;
+    left: 627px;
+}
+
+.box8 {
+    position: absolute;
+    top: 0;
+    left: 728px;
+}
